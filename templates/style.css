@@ -1,0 +1,24 @@
+.jcFlexEnd {
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: flex-end !important;
+}
+
+.cellFlexCenter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.flexSpaceBetween {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.redCleanButtonInMain {
+    display: flex;
+    align-items: end;
+}
